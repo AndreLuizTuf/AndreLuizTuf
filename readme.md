@@ -2,7 +2,7 @@ Meu perfil proffissional no GitHub
 
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-# Tech Stack
+# Tecnologias que uso no meu dia
 
 <div align="center"><br>
 <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
