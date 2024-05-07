@@ -17,3 +17,10 @@ Meu perfil proffissional no GitHub
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 </div>
+
+<div align="center">
+  <a href="https://github.com/andreluiztuf">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreluiztuf&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiztuf&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
